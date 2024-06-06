@@ -13,11 +13,13 @@ step 3: Fetch countries having most active cases in any particular date.
 
 Step 4: Countries with Active Cases
 
-![Screenshot (805)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/c1dfabbc-9f47-47c8-ac30-1a26485ffa17)
+![Screenshot (805)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/926cb005-9c14-4016-a631-838307a56108)
+
 
 step 5: Countries with confirmed cases
 
-![Screenshot (806)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/7a22aac2-0840-458c-b80e-6cfe808ba8ea)
+![Screenshot (806)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/43725a83-f54a-4ff3-8e0d-2ab2f180adba)
+
 
 step 6: world wide confirmed cases over time
 
