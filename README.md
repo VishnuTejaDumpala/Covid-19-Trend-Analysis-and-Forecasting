@@ -23,23 +23,28 @@ step 5: Countries with confirmed cases
 
 step 6: world wide confirmed cases over time
 
-![Screenshot (809)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/ee2b99c1-e6ec-434f-aff7-aa2747205e0b)
+![Screenshot (809)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/c7ea2989-13e8-4694-ae8c-4f180bae453a)
+
 
 step 7 : Death cases over time
 
-![Screenshot (812)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/3c70b1aa-88cc-482c-acea-191c61383190)
+![Screenshot (812)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/52357dc2-045b-466c-939f-121d83b14807)
+
 
 step 8:World Wide Active Cases
 
-![Screenshot (810)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/06361529-6b16-4181-a9c1-a506e7d683f8)
+![Screenshot (810)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/0d49f9e5-ddf8-44e5-95f9-9b1e78877843)
+
 
 step 9: Most Active Cases
 
-![Screenshot (813)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/2141b854-ad1d-45c9-b7f1-27906e310f20)
+![Screenshot (813)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/8b6b50ba-3beb-4059-b5ef-828f1bb3a697)
+
 
 step 10 : 7 day forecasts for confirmed cases
 
-![Screenshot (814)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/13cce63c-67b7-45f8-889b-beb42f34f77c)
+![Screenshot (814)](https://github.com/VishnuTejaDumpala/Covid-19-Trend-Analysis-and-Forecasting/assets/170489710/674a864a-6603-47e1-83ab-c4a30671354f)
+
 
 
 
